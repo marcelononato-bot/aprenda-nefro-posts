@@ -1,0 +1,1690 @@
+[
+ {
+  "episodio": 1,
+  "data": "07/06/2026",
+  "semana": "dom",
+  "faltam": 100,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Hipercalemia — manejo agudo e crônico",
+  "integrados": [
+   "Hipocalemia",
+   "Acidose tubular renal",
+   "Gasometria e distúrbio misto"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "KDIGO; patiromer/ZS-9 (Lokelma no SUS 2025)"
+ },
+ {
+  "episodio": 2,
+  "data": "08/06/2026",
+  "semana": "seg",
+  "faltam": 99,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "Nefropatia por IgA — nova era terapêutica",
+  "integrados": [
+   "GN rapidamente progressiva e crescentes",
+   "Nefropatia membranosa e anti-PLA2R",
+   "Doença anti-MBG / Goodpasture"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "KDIGO 2025; sparsentan, budesonida"
+ },
+ {
+  "episodio": 3,
+  "data": "09/06/2026",
+  "semana": "ter",
+  "faltam": 98,
+  "fase": "Conteúdo",
+  "area": "Diálise / TRS",
+  "central": "Prescrição de HD, Kt/V e adequação",
+  "integrados": [
+   "Peritonite em diálise peritoneal",
+   "Complicações agudas da hemodiálise",
+   "Indicações de início de diálise"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "URR; dose"
+ },
+ {
+  "episodio": 4,
+  "data": "10/06/2026",
+  "semana": "qua",
+  "faltam": 97,
+  "fase": "Conteúdo",
+  "area": "Hipertensão arterial",
+  "central": "Metas de PA — KDIGO 2021 × Diretriz Brasil 2025",
+  "integrados": [
+   "HAS resistente",
+   "Hiperaldosteronismo primário",
+   "Feocromocitoma"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "<120 padronizada × <130/80"
+ },
+ {
+  "episodio": 5,
+  "data": "11/06/2026",
+  "semana": "qui",
+  "faltam": 96,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "Onconefrologia — rim no câncer e na imunoterapia",
+  "integrados": [
+   "Progressão da DRC",
+   "Anemia da DRC",
+   "Aspectos nutricionais na DRC"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Além do clássico"
+ },
+ {
+  "episodio": 6,
+  "data": "12/06/2026",
+  "semana": "sex",
+  "faltam": 95,
+  "fase": "Conteúdo",
+  "area": "Injúria Renal Aguda",
+  "central": "IRA — definição e estadiamento KDIGO",
+  "integrados": [
+   "TRS na IRA",
+   "Necrose tubular aguda",
+   "Rabdomiólise e IRA"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Creatinina + débito urinário"
+ },
+ {
+  "episodio": 7,
+  "data": "13/06/2026",
+  "semana": "sáb",
+  "faltam": 94,
+  "fase": "Conteúdo",
+  "area": "Transplante renal",
+  "central": "Imunossupressão — indução e manutenção",
+  "integrados": [
+   "Recidiva de doença no enxerto",
+   "Rejeição",
+   "Avaliação e preparo do candidato"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "PCDT; tacro+MMF+pred; basiliximabe/ATG"
+ },
+ {
+  "episodio": 8,
+  "data": "14/06/2026",
+  "semana": "dom",
+  "faltam": 93,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Hiponatremia hipotônica e SIADH",
+  "integrados": [
+   "Tubulopatias: Bartter × Gitelman × Liddle × Gordon",
+   "Hipomagnesemia",
+   "Gasometria e distúrbio misto"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Osmolaridade; correção segura"
+ },
+ {
+  "episodio": 9,
+  "data": "15/06/2026",
+  "semana": "seg",
+  "faltam": 92,
+  "fase": "Conteúdo",
+  "area": "Nefro clínica / urinárias",
+  "central": "Nefrolitíase — avaliação metabólica",
+  "integrados": [
+   "Doença cística e diagnóstico diferencial",
+   "ADPKD",
+   "Síndrome de Alport e hereditárias"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Tipos de cálculo"
+ },
+ {
+  "episodio": 10,
+  "data": "16/06/2026",
+  "semana": "ter",
+  "faltam": 91,
+  "fase": "Conteúdo",
+  "area": "Doenças sistêmicas",
+  "central": "Nefrite lúpica — tripla terapia",
+  "integrados": [
+   "Crioglobulinemia / HCV / HIVAN",
+   "Mieloma e cast nephropathy",
+   "Nefropatia diabética"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "KDIGO 2024"
+ },
+ {
+  "episodio": 11,
+  "data": "17/06/2026",
+  "semana": "qua",
+  "faltam": 90,
+  "fase": "Conteúdo",
+  "area": "Ética / legislação / SUS",
+  "central": "Atenção Especializada em DRC no SUS",
+  "integrados": [
+   "PCDT DRC e dapagliflozina no SUS",
+   "Ética médica",
+   "Lei de transplante e morte encefálica"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Portaria 1.675/2018"
+ },
+ {
+  "episodio": 12,
+  "data": "18/06/2026",
+  "semana": "qui",
+  "faltam": 89,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "Nefropatia membranosa e anti-PLA2R",
+  "integrados": [
+   "Microangiopatia trombótica / SHU atípico",
+   "Doença de lesões mínimas",
+   "Doença anti-MBG / Goodpasture"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Rituximab (MENTOR)"
+ },
+ {
+  "episodio": 13,
+  "data": "19/06/2026",
+  "semana": "sex",
+  "faltam": 88,
+  "fase": "Conteúdo",
+  "area": "Nefrologia tropical (Brasil)",
+  "central": "IRA por leptospirose",
+  "integrados": [
+   "Loxoscelismo e acidentes por abelhas",
+   "Nefropatia da malária e esquistossomose",
+   "IRA por animais peçonhentos"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Weil; hipocalêmica não oligúrica"
+ },
+ {
+  "episodio": 14,
+  "data": "20/06/2026",
+  "semana": "sáb",
+  "faltam": 87,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "Cardio-nefro-metabólico — IC + DRC + DM integrados",
+  "integrados": [
+   "DMO-DRC e hiperparatireoidismo secundário",
+   "Eixo cardiorrenal",
+   "Anemia da DRC"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Visão de sistema"
+ },
+ {
+  "episodio": 15,
+  "data": "21/06/2026",
+  "semana": "dom",
+  "faltam": 86,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Acidose metabólica com ânion-gap alto",
+  "integrados": [
+   "Hipocalemia",
+   "Acidose tubular renal",
+   "Hiponatremia hipotônica e SIADH"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "MUDPILES; delta-delta; Winter"
+ },
+ {
+  "episodio": 16,
+  "data": "22/06/2026",
+  "semana": "seg",
+  "faltam": 85,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "GESF primária × secundária × genética",
+  "integrados": [
+   "Doença anti-MBG / Goodpasture",
+   "Amiloidose renal",
+   "GN rapidamente progressiva e crescentes"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Implicação terapêutica"
+ },
+ {
+  "episodio": 17,
+  "data": "23/06/2026",
+  "semana": "ter",
+  "faltam": 84,
+  "fase": "Conteúdo",
+  "area": "Diálise / TRS",
+  "central": "Complicações agudas da hemodiálise",
+  "integrados": [
+   "Peritonite em diálise peritoneal",
+   "HDF on-line × HD convencional",
+   "Indicações de início de diálise"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Hipotensão; desequilíbrio"
+ },
+ {
+  "episodio": 18,
+  "data": "24/06/2026",
+  "semana": "qua",
+  "faltam": 83,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Hipocalemia — abordagem diagnóstica",
+  "integrados": [
+   "Hipernatremia e diabetes insípido",
+   "Hipomagnesemia",
+   "Acidose metabólica com ânion-gap alto"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Perdas renais×extrarrenais"
+ },
+ {
+  "episodio": 19,
+  "data": "25/06/2026",
+  "semana": "qui",
+  "faltam": 82,
+  "fase": "Conteúdo",
+  "area": "Transplante renal",
+  "central": "Rejeição (celular×humoral, C4d)",
+  "integrados": [
+   "Avaliação e preparo do candidato",
+   "Recidiva de doença no enxerto",
+   "Imunogenética"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Banff"
+ },
+ {
+  "episodio": 20,
+  "data": "26/06/2026",
+  "semana": "sex",
+  "faltam": 81,
+  "fase": "Conteúdo",
+  "area": "Injúria Renal Aguda",
+  "central": "Síndrome cardiorrenal (1–5)",
+  "integrados": [
+   "TRS na IRA",
+   "Nefrite intersticial aguda",
+   "Necrose tubular aguda"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Congestão venosa"
+ },
+ {
+  "episodio": 21,
+  "data": "27/06/2026",
+  "semana": "sáb",
+  "faltam": 80,
+  "fase": "Conteúdo",
+  "area": "Hipertensão arterial",
+  "central": "Hiperaldosteronismo primário",
+  "integrados": [
+   "Metas de PA",
+   "HAS renovascular e displasia fibromuscular",
+   "HAS secundária"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Relação aldo/renina"
+ },
+ {
+  "episodio": 22,
+  "data": "28/06/2026",
+  "semana": "dom",
+  "faltam": 79,
+  "fase": "Conteúdo",
+  "area": "Fisiologia / métodos",
+  "central": "Hemodinâmica glomerular e autorregulação",
+  "integrados": [
+   "Interpretação de urina, FENa e sedimento"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Zatz; SRAA"
+ },
+ {
+  "episodio": 23,
+  "data": "29/06/2026",
+  "semana": "seg",
+  "faltam": 78,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "POCUS / ultrassom à beira-leito em nefrologia",
+  "integrados": [
+   "Biópsia renal",
+   "GN membranoproliferativa e doença por C3",
+   "GN rapidamente progressiva e crescentes"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Congestão; VExUS"
+ },
+ {
+  "episodio": 24,
+  "data": "30/06/2026",
+  "semana": "ter",
+  "faltam": 77,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Acidose tubular renal (I, II e IV)",
+  "integrados": [
+   "Distúrbios do cálcio",
+   "Gasometria e distúrbio misto",
+   "Tubulopatias: Bartter × Gitelman × Liddle × Gordon"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Ânion-gap urinário"
+ },
+ {
+  "episodio": 25,
+  "data": "01/07/2026",
+  "semana": "qua",
+  "faltam": 76,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "Anemia da DRC — ferro, AEE, HIF-PHI",
+  "integrados": [
+   "Estadiamento e CKD-EPI 2021",
+   "Eixo cardiorrenal",
+   "Manejo conservador e paliativo renal"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "KDIGO 2026; PCDT"
+ },
+ {
+  "episodio": 26,
+  "data": "02/07/2026",
+  "semana": "qui",
+  "faltam": 75,
+  "fase": "Conteúdo",
+  "area": "Gestação e rim",
+  "central": "Pré-eclâmpsia — diagnóstico e manejo",
+  "integrados": [
+   "Rim e DRC na gestação"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Sulfato de Mg"
+ },
+ {
+  "episodio": 27,
+  "data": "03/07/2026",
+  "semana": "sex",
+  "faltam": 74,
+  "fase": "Conteúdo",
+  "area": "Doenças sistêmicas",
+  "central": "Vasculites ANCA",
+  "integrados": [
+   "Nefrite lúpica",
+   "Nefropatia diabética",
+   "Crioglobulinemia / HCV / HIVAN"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Rituximab×ciclofosfamida"
+ },
+ {
+  "episodio": 28,
+  "data": "04/07/2026",
+  "semana": "sáb",
+  "faltam": 73,
+  "fase": "Conteúdo",
+  "area": "Diálise / TRS",
+  "central": "Acesso vascular — FAV e cateter",
+  "integrados": [
+   "Prescrição de HD, Kt/V e adequação",
+   "Água e segurança em HD",
+   "Indicações de início de diálise"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Escolha e manutenção"
+ },
+ {
+  "episodio": 29,
+  "data": "05/07/2026",
+  "semana": "dom",
+  "faltam": 72,
+  "fase": "Conteúdo",
+  "area": "Nefro clínica / urinárias",
+  "central": "ADPKD — tolvaptana, Mayo, PROPKD",
+  "integrados": [
+   "Nefrolitíase",
+   "Doença cística e diagnóstico diferencial",
+   "Síndrome de Alport e hereditárias"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "KDIGO 2025"
+ },
+ {
+  "episodio": 30,
+  "data": "06/07/2026",
+  "semana": "seg",
+  "faltam": 71,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Hipernatremia e diabetes insípido",
+  "integrados": [
+   "Distúrbios do cálcio",
+   "Alcalose metabólica",
+   "Hipercalemia"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Déficit de água livre"
+ },
+ {
+  "episodio": 31,
+  "data": "07/07/2026",
+  "semana": "ter",
+  "faltam": 70,
+  "fase": "Conteúdo",
+  "area": "Ética / legislação / SUS",
+  "central": "Lei de transplante e morte encefálica",
+  "integrados": [
+   "PCDT DRC e dapagliflozina no SUS",
+   "Metodologia científica e bioestatística",
+   "Atenção Especializada em DRC no SUS"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Lei 9.434/97"
+ },
+ {
+  "episodio": 32,
+  "data": "08/07/2026",
+  "semana": "qua",
+  "faltam": 69,
+  "fase": "Conteúdo",
+  "area": "Transplante renal",
+  "central": "Genética e medicina de precisão em nefrologia",
+  "integrados": [
+   "Complicações infecciosas",
+   "Recidiva de doença no enxerto",
+   "Complicações metabólicas/CV/neoplásicas"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Painéis; aconselhamento"
+ },
+ {
+  "episodio": 33,
+  "data": "09/07/2026",
+  "semana": "qui",
+  "faltam": 68,
+  "fase": "Conteúdo",
+  "area": "Injúria Renal Aguda",
+  "central": "Necrose tubular aguda",
+  "integrados": [
+   "IRA",
+   "Nefropatia por contraste",
+   "Nefrite intersticial aguda"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Sedimento"
+ },
+ {
+  "episodio": 34,
+  "data": "10/07/2026",
+  "semana": "sex",
+  "faltam": 67,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "Doença de lesões mínimas",
+  "integrados": [
+   "Nefropatia membranosa e anti-PLA2R",
+   "GN membranoproliferativa e doença por C3",
+   "GN rapidamente progressiva e crescentes"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Corticoide; recidiva"
+ },
+ {
+  "episodio": 35,
+  "data": "11/07/2026",
+  "semana": "sáb",
+  "faltam": 66,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "DMO-DRC e hiperparatireoidismo secundário",
+  "integrados": [
+   "Estadiamento e CKD-EPI 2021",
+   "Eixo cardiorrenal",
+   "Progressão da DRC"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Quelantes; calcimimético; PTx"
+ },
+ {
+  "episodio": 36,
+  "data": "12/07/2026",
+  "semana": "dom",
+  "faltam": 65,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Distúrbios do cálcio (hiper/hipo)",
+  "integrados": [
+   "Hipocalemia",
+   "Acidose tubular renal",
+   "Hipernatremia e diabetes insípido"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "PTH-dependente×independente"
+ },
+ {
+  "episodio": 37,
+  "data": "13/07/2026",
+  "semana": "seg",
+  "faltam": 64,
+  "fase": "Conteúdo",
+  "area": "Hipertensão arterial",
+  "central": "HAS renovascular e displasia fibromuscular",
+  "integrados": [
+   "Feocromocitoma",
+   "Hiperaldosteronismo primário",
+   "HAS secundária"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "'Colar de contas'"
+ },
+ {
+  "episodio": 38,
+  "data": "14/07/2026",
+  "semana": "ter",
+  "faltam": 63,
+  "fase": "Conteúdo",
+  "area": "Nefrologia tropical (Brasil)",
+  "central": "IRA por animais peçonhentos (Bothrops/Crotalus)",
+  "integrados": [
+   "Nefropatia da malária e esquistossomose",
+   "Loxoscelismo e acidentes por abelhas",
+   "IRA por leptospirose"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Necrose cortical; rabdomiólise"
+ },
+ {
+  "episodio": 39,
+  "data": "15/07/2026",
+  "semana": "qua",
+  "faltam": 62,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "GN membranoproliferativa e doença por C3",
+  "integrados": [
+   "Microangiopatia trombótica / SHU atípico",
+   "Doença de lesões mínimas",
+   "Amiloidose renal"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Complemento"
+ },
+ {
+  "episodio": 40,
+  "data": "16/07/2026",
+  "semana": "qui",
+  "faltam": 61,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Distúrbios do fósforo e FGF-23/Klotho",
+  "integrados": [
+   "Gasometria e distúrbio misto",
+   "Hipercalemia",
+   "Tubulopatias: Bartter × Gitelman × Liddle × Gordon"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "DMO precoce"
+ },
+ {
+  "episodio": 41,
+  "data": "17/07/2026",
+  "semana": "sex",
+  "faltam": 60,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "Nefrologia sustentável / diálise verde",
+  "integrados": [
+   "Eixo cardiorrenal",
+   "Anemia da DRC",
+   "Estadiamento e CKD-EPI 2021"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Tendência emergente"
+ },
+ {
+  "episodio": 42,
+  "data": "18/07/2026",
+  "semana": "sáb",
+  "faltam": 59,
+  "fase": "Conteúdo",
+  "area": "Diálise / TRS",
+  "central": "Diálise peritoneal — fisiologia e prescrição",
+  "integrados": [
+   "Indicações de início de diálise",
+   "HDF on-line × HD convencional",
+   "Acesso vascular"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "PET; membrana"
+ },
+ {
+  "episodio": 43,
+  "data": "19/07/2026",
+  "semana": "dom",
+  "faltam": 58,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Alcalose metabólica",
+  "integrados": [
+   "Acidose metabólica com ânion-gap alto",
+   "Hipomagnesemia",
+   "Acidose tubular renal"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Cloro urinário"
+ },
+ {
+  "episodio": 44,
+  "data": "20/07/2026",
+  "semana": "seg",
+  "faltam": 57,
+  "fase": "Conteúdo",
+  "area": "Injúria Renal Aguda",
+  "central": "Nefrite intersticial aguda",
+  "integrados": [
+   "TRS na IRA",
+   "Nefropatia por contraste",
+   "Síndrome cardiorrenal"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Drogas; eosinofilúria"
+ },
+ {
+  "episodio": 45,
+  "data": "21/07/2026",
+  "semana": "ter",
+  "faltam": 56,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "Microangiopatia trombótica / SHU atípico",
+  "integrados": [
+   "Amiloidose renal",
+   "Doença de lesões mínimas",
+   "Biópsia renal"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Eculizumab"
+ },
+ {
+  "episodio": 46,
+  "data": "22/07/2026",
+  "semana": "qua",
+  "faltam": 55,
+  "fase": "Conteúdo",
+  "area": "Nefro clínica / urinárias",
+  "central": "ITU e pielonefrite",
+  "integrados": [
+   "ADPKD",
+   "Síndrome de Alport e hereditárias",
+   "Doença cística e diagnóstico diferencial"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Complicada"
+ },
+ {
+  "episodio": 47,
+  "data": "23/07/2026",
+  "semana": "qui",
+  "faltam": 54,
+  "fase": "Conteúdo",
+  "area": "Hipertensão arterial",
+  "central": "Feocromocitoma",
+  "integrados": [
+   "HAS secundária",
+   "Medida da PA e MAPA",
+   "HAS renovascular e displasia fibromuscular"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Metanefrinas; preparo"
+ },
+ {
+  "episodio": 48,
+  "data": "24/07/2026",
+  "semana": "sex",
+  "faltam": 53,
+  "fase": "Conteúdo",
+  "area": "Ética / legislação / SUS",
+  "central": "PCDT DRC e dapagliflozina no SUS",
+  "integrados": [
+   "Ética médica",
+   "Atenção Especializada em DRC no SUS",
+   "Metodologia científica e bioestatística"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Portaria Conjunta 11/2024"
+ },
+ {
+  "episodio": 49,
+  "data": "25/07/2026",
+  "semana": "sáb",
+  "faltam": 52,
+  "fase": "Conteúdo",
+  "area": "Doenças sistêmicas",
+  "central": "Nefropatia diabética",
+  "integrados": [
+   "Mieloma e cast nephropathy",
+   "Nefrite lúpica",
+   "Vasculites ANCA"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Quádrupla terapia"
+ },
+ {
+  "episodio": 50,
+  "data": "26/07/2026",
+  "semana": "dom",
+  "faltam": 51,
+  "fase": "Conteúdo",
+  "area": "Transplante renal",
+  "central": "Fragilidade e rim no idoso",
+  "integrados": [
+   "Complicações metabólicas/CV/neoplásicas",
+   "Imunossupressão",
+   "Complicações infecciosas"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Decisão individualizada"
+ },
+ {
+  "episodio": 51,
+  "data": "27/07/2026",
+  "semana": "seg",
+  "faltam": 50,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Hipomagnesemia",
+  "integrados": [
+   "Distúrbios do cálcio",
+   "Hipercalemia",
+   "Distúrbios do fósforo e FGF-23/Klotho"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Tubulopatias; drogas"
+ },
+ {
+  "episodio": 52,
+  "data": "28/07/2026",
+  "semana": "ter",
+  "faltam": 49,
+  "fase": "Conteúdo",
+  "area": "Diálise / TRS",
+  "central": "Peritonite em diálise peritoneal",
+  "integrados": [
+   "Água e segurança em HD",
+   "Complicações agudas da hemodiálise",
+   "Prescrição de HD, Kt/V e adequação"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Diagnóstico e tratamento"
+ },
+ {
+  "episodio": 53,
+  "data": "29/07/2026",
+  "semana": "qua",
+  "faltam": 48,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "Amiloidose renal",
+  "integrados": [
+   "Biópsia renal",
+   "GESF primária × secundária × genética",
+   "GN membranoproliferativa e doença por C3"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Vermelho-Congo; AL×AA"
+ },
+ {
+  "episodio": 54,
+  "data": "30/07/2026",
+  "semana": "qui",
+  "faltam": 47,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Tubulopatias: Bartter × Gitelman × Liddle × Gordon",
+  "integrados": [
+   "Hipomagnesemia",
+   "Acidose tubular renal",
+   "Acidose metabólica com ânion-gap alto"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Diagnóstico diferencial fino"
+ },
+ {
+  "episodio": 55,
+  "data": "31/07/2026",
+  "semana": "sex",
+  "faltam": 46,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "Aspectos nutricionais na DRC",
+  "integrados": [
+   "Eixo cardiorrenal",
+   "Estadiamento e CKD-EPI 2021",
+   "Doença cardiovascular na DRC"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Proteína 0,8 g/kg/dia"
+ },
+ {
+  "episodio": 56,
+  "data": "01/08/2026",
+  "semana": "sáb",
+  "faltam": 45,
+  "fase": "Conteúdo",
+  "area": "Injúria Renal Aguda",
+  "central": "TRS na IRA — modalidades, citrato, timing",
+  "integrados": [
+   "IRA",
+   "Rabdomiólise e IRA",
+   "Nefropatia por contraste"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "STARRT-AKI"
+ },
+ {
+  "episodio": 57,
+  "data": "02/08/2026",
+  "semana": "dom",
+  "faltam": 44,
+  "fase": "Conteúdo",
+  "area": "Hipertensão arterial",
+  "central": "HAS resistente",
+  "integrados": [
+   "HAS secundária",
+   "Medida da PA e MAPA",
+   "HAS renovascular e displasia fibromuscular"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Espironolactona"
+ },
+ {
+  "episodio": 58,
+  "data": "03/08/2026",
+  "semana": "seg",
+  "faltam": 43,
+  "fase": "Conteúdo",
+  "area": "Nefrologia tropical (Brasil)",
+  "central": "Nefropatia da malária e esquistossomose",
+  "integrados": [
+   "Loxoscelismo e acidentes por abelhas",
+   "IRA por leptospirose",
+   "IRA por animais peçonhentos"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "GNMP; imunocomplexos"
+ },
+ {
+  "episodio": 59,
+  "data": "04/08/2026",
+  "semana": "ter",
+  "faltam": 42,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Nefrotoxicidade e interações na prática",
+  "integrados": [
+   "Hipernatremia e diabetes insípido",
+   "Distúrbios do cálcio",
+   "Alcalose metabólica"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Stewardship de nefrotóxicos"
+ },
+ {
+  "episodio": 60,
+  "data": "05/08/2026",
+  "semana": "qua",
+  "faltam": 41,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "Biópsia renal — indicações e complicações",
+  "integrados": [
+   "GN membranoproliferativa e doença por C3",
+   "Nefropatia membranosa e anti-PLA2R",
+   "GESF primária × secundária × genética"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Conduta pós-biópsia"
+ },
+ {
+  "episodio": 61,
+  "data": "06/08/2026",
+  "semana": "qui",
+  "faltam": 40,
+  "fase": "Conteúdo",
+  "area": "Transplante renal",
+  "central": "Complicações infecciosas (BK, CMV)",
+  "integrados": [
+   "Avaliação e preparo do candidato",
+   "Complicações metabólicas/CV/neoplásicas",
+   "Imunossupressão"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Profilaxia"
+ },
+ {
+  "episodio": 62,
+  "data": "07/08/2026",
+  "semana": "sex",
+  "faltam": 39,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "Doença cardiovascular na DRC",
+  "integrados": [
+   "Manejo conservador e paliativo renal",
+   "Eixo cardiorrenal",
+   "Anemia da DRC"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Risco e manejo"
+ },
+ {
+  "episodio": 63,
+  "data": "08/08/2026",
+  "semana": "sáb",
+  "faltam": 38,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Hipercalemia — manejo agudo e crônico",
+  "integrados": [
+   "Hipocalemia",
+   "Alcalose metabólica",
+   "Hiponatremia hipotônica e SIADH"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "KDIGO; patiromer/ZS-9 (Lokelma no SUS 2025)"
+ },
+ {
+  "episodio": 64,
+  "data": "09/08/2026",
+  "semana": "dom",
+  "faltam": 37,
+  "fase": "Conteúdo",
+  "area": "Doenças sistêmicas",
+  "central": "Mieloma e cast nephropathy",
+  "integrados": [
+   "Nefrite lúpica",
+   "Nefropatia diabética",
+   "Crioglobulinemia / HCV / HIVAN"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Cadeia leve"
+ },
+ {
+  "episodio": 65,
+  "data": "10/08/2026",
+  "semana": "seg",
+  "faltam": 36,
+  "fase": "Conteúdo",
+  "area": "Diálise / TRS",
+  "central": "Indicações de início de diálise",
+  "integrados": [
+   "Peritonite em diálise peritoneal",
+   "Acesso vascular",
+   "Diálise peritoneal"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Quando iniciar"
+ },
+ {
+  "episodio": 66,
+  "data": "11/08/2026",
+  "semana": "ter",
+  "faltam": 35,
+  "fase": "Conteúdo",
+  "area": "Nefro clínica / urinárias",
+  "central": "Síndrome de Alport e hereditárias",
+  "integrados": [
+   "Doença cística e diagnóstico diferencial",
+   "Nefrolitíase",
+   "ITU e pielonefrite"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "'Basket-weave'"
+ },
+ {
+  "episodio": 67,
+  "data": "12/08/2026",
+  "semana": "qua",
+  "faltam": 34,
+  "fase": "Conteúdo",
+  "area": "Ética / legislação / SUS",
+  "central": "Ética médica — autonomia, sigilo, terminalidade",
+  "integrados": [
+   "Metodologia científica e bioestatística",
+   "Atenção Especializada em DRC no SUS",
+   "Lei de transplante e morte encefálica"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Resoluções CFM"
+ },
+ {
+  "episodio": 68,
+  "data": "13/08/2026",
+  "semana": "qui",
+  "faltam": 33,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "Distúrbio integrado: Na + volume + ácido-base num caso",
+  "integrados": [
+   "Amiloidose renal",
+   "Biópsia renal",
+   "GN membranoproliferativa e doença por C3"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Raciocínio combinado"
+ },
+ {
+  "episodio": 69,
+  "data": "14/08/2026",
+  "semana": "sex",
+  "faltam": 32,
+  "fase": "Conteúdo",
+  "area": "Gestação e rim",
+  "central": "Rim e DRC na gestação",
+  "integrados": [
+   "Pré-eclâmpsia"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Fisiologia; ajuste"
+ },
+ {
+  "episodio": 70,
+  "data": "15/08/2026",
+  "semana": "sáb",
+  "faltam": 31,
+  "fase": "Conteúdo",
+  "area": "Fisiologia / métodos",
+  "central": "Interpretação de urina, FENa e sedimento",
+  "integrados": [
+   "Hemodinâmica glomerular e autorregulação"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Biomarcadores"
+ },
+ {
+  "episodio": 71,
+  "data": "16/08/2026",
+  "semana": "dom",
+  "faltam": 30,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Hiponatremia hipotônica e SIADH",
+  "integrados": [
+   "Hipocalemia",
+   "Acidose tubular renal",
+   "Distúrbios do fósforo e FGF-23/Klotho"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Osmolaridade; correção segura"
+ },
+ {
+  "episodio": 72,
+  "data": "17/08/2026",
+  "semana": "seg",
+  "faltam": 29,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "Manejo conservador e paliativo renal",
+  "integrados": [
+   "Progressão da DRC",
+   "Anemia da DRC",
+   "Aspectos nutricionais na DRC"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Decisão compartilhada"
+ },
+ {
+  "episodio": 73,
+  "data": "18/08/2026",
+  "semana": "ter",
+  "faltam": 28,
+  "fase": "Conteúdo",
+  "area": "Hipertensão arterial",
+  "central": "HAS secundária — investigação",
+  "integrados": [
+   "Feocromocitoma",
+   "HAS renovascular e displasia fibromuscular",
+   "HAS resistente"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Pistas clínicas"
+ },
+ {
+  "episodio": 74,
+  "data": "19/08/2026",
+  "semana": "qua",
+  "faltam": 27,
+  "fase": "Conteúdo",
+  "area": "Injúria Renal Aguda",
+  "central": "Rabdomiólise e IRA",
+  "integrados": [
+   "Nefropatia por contraste",
+   "Síndrome cardiorrenal",
+   "Nefrite intersticial aguda"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Mioglobinúria"
+ },
+ {
+  "episodio": 75,
+  "data": "20/08/2026",
+  "semana": "qui",
+  "faltam": 26,
+  "fase": "Conteúdo",
+  "area": "Transplante renal",
+  "central": "Complicações metabólicas/CV/neoplásicas",
+  "integrados": [
+   "Complicações infecciosas",
+   "Imunogenética",
+   "Rejeição"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "DM pós-TX; belatacepte"
+ },
+ {
+  "episodio": 76,
+  "data": "21/08/2026",
+  "semana": "sex",
+  "faltam": 25,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "Nefropatia por IgA — nova era terapêutica",
+  "integrados": [
+   "Biópsia renal",
+   "Doença anti-MBG / Goodpasture",
+   "Nefropatia membranosa e anti-PLA2R"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "KDIGO 2025; sparsentan, budesonida"
+ },
+ {
+  "episodio": 77,
+  "data": "22/08/2026",
+  "semana": "sáb",
+  "faltam": 24,
+  "fase": "Conteúdo",
+  "area": "Diálise / TRS",
+  "central": "Onconefrologia — rim no câncer e na imunoterapia",
+  "integrados": [
+   "Prescrição de HD, Kt/V e adequação",
+   "Água e segurança em HD",
+   "Peritonite em diálise peritoneal"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Além do clássico"
+ },
+ {
+  "episodio": 78,
+  "data": "23/08/2026",
+  "semana": "dom",
+  "faltam": 23,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Acidose metabólica com ânion-gap alto",
+  "integrados": [
+   "Tubulopatias: Bartter × Gitelman × Liddle × Gordon",
+   "Alcalose metabólica",
+   "Gasometria e distúrbio misto"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "MUDPILES; delta-delta; Winter"
+ },
+ {
+  "episodio": 79,
+  "data": "24/08/2026",
+  "semana": "seg",
+  "faltam": 22,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "Eixo cardiorrenal — iSGLT2, finerenona, GLP-1",
+  "integrados": [
+   "Progressão da DRC",
+   "Estadiamento e CKD-EPI 2021",
+   "Doença cardiovascular na DRC"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "FLOW, FIDELIO, CONFIDENCE"
+ },
+ {
+  "episodio": 80,
+  "data": "25/08/2026",
+  "semana": "ter",
+  "faltam": 21,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Hipocalemia — abordagem diagnóstica",
+  "integrados": [
+   "Distúrbios do cálcio",
+   "Gasometria e distúrbio misto",
+   "Hipercalemia"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Perdas renais×extrarrenais"
+ },
+ {
+  "episodio": 81,
+  "data": "26/08/2026",
+  "semana": "qua",
+  "faltam": 20,
+  "fase": "Conteúdo",
+  "area": "Nefrologia tropical (Brasil)",
+  "central": "Loxoscelismo e acidentes por abelhas",
+  "integrados": [
+   "IRA por animais peçonhentos",
+   "Nefropatia da malária e esquistossomose",
+   "IRA por leptospirose"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Hemólise; NTA"
+ },
+ {
+  "episodio": 82,
+  "data": "27/08/2026",
+  "semana": "qui",
+  "faltam": 19,
+  "fase": "Conteúdo",
+  "area": "Nefro clínica / urinárias",
+  "central": "Doença cística e diagnóstico diferencial",
+  "integrados": [
+   "Síndrome de Alport e hereditárias",
+   "ITU e pielonefrite",
+   "ADPKD"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Bosniak"
+ },
+ {
+  "episodio": 83,
+  "data": "28/08/2026",
+  "semana": "sex",
+  "faltam": 18,
+  "fase": "Conteúdo",
+  "area": "Ética / legislação / SUS",
+  "central": "Metodologia científica e bioestatística",
+  "integrados": [
+   "Lei de transplante e morte encefálica",
+   "PCDT DRC e dapagliflozina no SUS",
+   "Atenção Especializada em DRC no SUS"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Sens/Espec; NNT; tipos de estudo"
+ },
+ {
+  "episodio": 84,
+  "data": "29/08/2026",
+  "semana": "sáb",
+  "faltam": 17,
+  "fase": "Conteúdo",
+  "area": "Doenças sistêmicas",
+  "central": "Crioglobulinemia / HCV / HIVAN",
+  "integrados": [
+   "Vasculites ANCA",
+   "Nefrite lúpica",
+   "Mieloma e cast nephropathy"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Glomerulopatias por infecção"
+ },
+ {
+  "episodio": 85,
+  "data": "30/08/2026",
+  "semana": "dom",
+  "faltam": 16,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "Nefropatia membranosa e anti-PLA2R",
+  "integrados": [
+   "Nefropatia por IgA",
+   "Doença anti-MBG / Goodpasture",
+   "Biópsia renal"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Rituximab (MENTOR)"
+ },
+ {
+  "episodio": 86,
+  "data": "31/08/2026",
+  "semana": "seg",
+  "faltam": 15,
+  "fase": "Conteúdo",
+  "area": "Injúria Renal Aguda",
+  "central": "Cardio-nefro-metabólico — IC + DRC + DM integrados",
+  "integrados": [
+   "Nefrite intersticial aguda",
+   "Necrose tubular aguda",
+   "Rabdomiólise e IRA"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Visão de sistema"
+ },
+ {
+  "episodio": 87,
+  "data": "01/09/2026",
+  "semana": "ter",
+  "faltam": 14,
+  "fase": "Conteúdo",
+  "area": "Transplante renal",
+  "central": "Recidiva de doença no enxerto",
+  "integrados": [
+   "Avaliação e preparo do candidato",
+   "Imunogenética",
+   "Complicações infecciosas"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "GESF, C3, oxalose"
+ },
+ {
+  "episodio": 88,
+  "data": "02/09/2026",
+  "semana": "qua",
+  "faltam": 13,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Acidose tubular renal (I, II e IV)",
+  "integrados": [
+   "Distúrbios do fósforo e FGF-23/Klotho",
+   "Hipomagnesemia",
+   "Hipernatremia e diabetes insípido"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Ânion-gap urinário"
+ },
+ {
+  "episodio": 89,
+  "data": "03/09/2026",
+  "semana": "qui",
+  "faltam": 12,
+  "fase": "Conteúdo",
+  "area": "Doença Renal Crônica",
+  "central": "Progressão da DRC — terapia quádrupla",
+  "integrados": [
+   "Doença cardiovascular na DRC",
+   "Estadiamento e CKD-EPI 2021",
+   "Anemia da DRC"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "KDIGO 2024"
+ },
+ {
+  "episodio": 90,
+  "data": "04/09/2026",
+  "semana": "sex",
+  "faltam": 11,
+  "fase": "Conteúdo",
+  "area": "Hipertensão arterial",
+  "central": "Medida da PA e MAPA",
+  "integrados": [
+   "Hiperaldosteronismo primário",
+   "Metas de PA",
+   "HAS renovascular e displasia fibromuscular"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Mascarada/avental"
+ },
+ {
+  "episodio": 91,
+  "data": "05/09/2026",
+  "semana": "sáb",
+  "faltam": 10,
+  "fase": "Conteúdo",
+  "area": "Diálise / TRS",
+  "central": "HDF on-line × HD convencional",
+  "integrados": [
+   "Acesso vascular",
+   "Água e segurança em HD",
+   "Complicações agudas da hemodiálise"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Terapias convectivas"
+ },
+ {
+  "episodio": 92,
+  "data": "06/09/2026",
+  "semana": "dom",
+  "faltam": 9,
+  "fase": "Conteúdo",
+  "area": "Glomerulopatias",
+  "central": "GESF primária × secundária × genética",
+  "integrados": [
+   "Microangiopatia trombótica / SHU atípico",
+   "GN rapidamente progressiva e crescentes",
+   "Doença anti-MBG / Goodpasture"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Implicação terapêutica"
+ },
+ {
+  "episodio": 93,
+  "data": "07/09/2026",
+  "semana": "seg",
+  "faltam": 8,
+  "fase": "Conteúdo",
+  "area": "Distúrbios HE & ácido-base",
+  "central": "Hipernatremia e diabetes insípido",
+  "integrados": [
+   "Hipercalemia",
+   "Hipocalemia",
+   "Hiponatremia hipotônica e SIADH"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "Déficit de água livre"
+ },
+ {
+  "episodio": 94,
+  "data": "08/09/2026",
+  "semana": "ter",
+  "faltam": 7,
+  "fase": "Reta final",
+  "area": "Revisão",
+  "central": "Revisão integrada — eletrólitos + ácido-base",
+  "integrados": [
+   "tubulopatias",
+   "gasometria",
+   "DRC"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "integrado"
+ },
+ {
+  "episodio": 95,
+  "data": "09/09/2026",
+  "semana": "qua",
+  "faltam": 6,
+  "fase": "Reta final",
+  "area": "Revisão",
+  "central": "Revisão integrada — glomerulopatias + doenças sistêmicas",
+  "integrados": [
+   "lúpus",
+   "ANCA",
+   "novas drogas"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "integrado"
+ },
+ {
+  "episodio": 96,
+  "data": "10/09/2026",
+  "semana": "qui",
+  "faltam": 5,
+  "fase": "Reta final",
+  "area": "Revisão",
+  "central": "Revisão integrada — transplante + diálise + DRC",
+  "integrados": [
+   "imunossupressão",
+   "acesso",
+   "DMO"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "integrado"
+ },
+ {
+  "episodio": 97,
+  "data": "11/09/2026",
+  "semana": "sex",
+  "faltam": 4,
+  "fase": "Reta final",
+  "area": "Revisão",
+  "central": "Revisão integrada — IRA + cardiorrenal + intensivismo",
+  "integrados": [
+   "KDIGO-AKI",
+   "CRRT",
+   "contraste"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "integrado"
+ },
+ {
+  "episodio": 98,
+  "data": "12/09/2026",
+  "semana": "sáb",
+  "faltam": 3,
+  "fase": "Reta final",
+  "area": "Revisão",
+  "central": "Revisão — legislação/SUS + nefro tropical",
+  "integrados": [
+   "portarias",
+   "leptospirose",
+   "peçonhentos"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "integrado"
+ },
+ {
+  "episodio": 99,
+  "data": "13/09/2026",
+  "semana": "dom",
+  "faltam": 2,
+  "fase": "Reta final",
+  "area": "Revisão",
+  "central": "Simulado integrado — Etapa 1 (60 questões)",
+  "integrados": [
+   "todas as áreas"
+  ],
+  "tipo": "objetiva",
+  "dificuldade": "Máxima",
+  "ancora": "integrado"
+ },
+ {
+  "episodio": 100,
+  "data": "14/09/2026",
+  "semana": "seg",
+  "faltam": 1,
+  "fase": "Reta final",
+  "area": "Revisão",
+  "central": "Simulado — Etapa 2 (estações + imagem) — véspera",
+  "integrados": [
+   "imagens + fórmulas"
+  ],
+  "tipo": "subjetiva",
+  "dificuldade": "Máxima",
+  "ancora": "integrado"
+ }
+]
