@@ -1,0 +1,13 @@
+{
+  "CLAUDE_API_KEY": "sk-ant-xxxx   (a MESMA chave que você usa no n8n)",
+  "CLAUDE_MODEL": "claude-sonnet-4-6",
+
+  "PAGE_ACCESS_TOKEN": "xxxx   (copiar do .credenciais.json do Café com Nefro)",
+  "IG_BUSINESS_ID": "xxxx      (copiar do .credenciais.json do Café com Nefro)",
+  "GH_TOKEN": "xxxx            (copiar do .credenciais.json do Café com Nefro)",
+
+  "GH_OWNER": "seu-usuario-github",
+  "GH_REPO": "aprenda-nefro-posts",
+  "GH_BRANCH": "main",
+  "IG_SUBFOLDER": "missao100"
+}
