@@ -10,6 +10,7 @@ done
 echo ">> Criando ambiente Python (venv) + Pillow"
 python3 -m venv "$DEST/venv"
 "$DEST/venv/bin/pip" install -q --upgrade pip pillow
+apt-get install -y fonts-dejavu fonts-dejavu-extra >/dev/null 2>&1 || true
 echo ">> Reaproveitando credenciais do Cafe com Nefro"
 cp /opt/ccn/.credenciais.json "$DEST/.credenciais.json"
 if [ ! -f "$DEST/config.json" ]; then
