@@ -40,7 +40,7 @@ FORMATO DO 'corpo' de cada slide (para a diagramação): de 4 a 7 PONTOS, UM POR
 
 A legenda do Instagram: um gancho educativo curto (2 a 4 frases) sobre o assunto, na voz AprendaNefro, SEM chamada para ação e SEM hashtags.
 
-RESPONDA APENAS COM JSON VÁLIDO, nada fora dele. Use \\n para quebras de linha dentro das strings (NÃO use quebras de linha reais dentro do JSON). Schema exato:
+RESPONDA APENAS COM JSON VÁLIDO, nada fora dele. Use \\n para quebras de linha dentro das strings (NÃO use quebras de linha reais dentro do JSON). Dentro dos textos NUNCA use o caractere aspas duplas ("); para citar, use aspas simples ('). Schema exato:
 {"tema_dia":"...","carrossel":[{"slide":1,"titulo":"...","corpo":"..."}, ... 10 slides ...],"legenda_instagram":"..."}"""
 
 def build_user(ep):
