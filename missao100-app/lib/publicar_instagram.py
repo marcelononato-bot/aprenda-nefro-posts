@@ -47,8 +47,27 @@ def _api(path, params, method="POST"):
     if method == "GET":
         url += "?" + data.decode(); data = None
     req = urllib.request.Request(url, data=data, method=method)
-    with urllib.request.urlopen(req, timeout=120) as r:
-        return json.load(r)
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        # inclui a mensagem do Graph no erro (pra aparecer no log)
+        body = e.read().decode("utf-8", "ignore")[:400]
+        raise urllib.error.HTTPError(e.url, e.code, f"{e.reason} :: {body}", e.headers, None)
+
+def _child(ig, tok, u):
+    # cria o container-filho com RETRIES: o raw do GitHub pode demorar a propagar
+    # e o Facebook devolve 400 ao tentar buscar a imagem cedo demais.
+    last = None
+    for wait in (0, 10, 20, 40, 60):
+        if wait:
+            time.sleep(wait)
+        try:
+            return _api(f"{ig}/media", {"image_url": u, "is_carousel_item": "true", "access_token": tok})["id"]
+        except urllib.error.HTTPError as e:
+            last = e
+            print(f"  retry container (img ainda nao propagou?): {e}")
+    raise last
 
 def publicar(ep_num):
     cfg = _cfg()
@@ -62,9 +81,9 @@ def publicar(ep_num):
         f = out / f"slide-{i:02d}.png"
         repo_path = f"{cfg['IG_SUBFOLDER']}/dia-{ep_num:03d}/slide-{i:02d}.png"
         urls.append(_gh_put(cfg, repo_path, f.read_bytes(), f"missao100 dia {ep_num} slide {i}"))
-    time.sleep(3)  # pequena folga para o raw propagar
-    # 2) cria os containers-filhos
-    children = [_api(f"{ig}/media", {"image_url": u, "is_carousel_item": "true", "access_token": tok})["id"] for u in urls]
+    time.sleep(8)  # folga inicial para o raw do GitHub propagar
+    # 2) cria os containers-filhos (com retry: tolera atraso de propagação do raw)
+    children = [_child(ig, tok, u) for u in urls]
     # 3) container do carrossel
     car = _api(f"{ig}/media", {"media_type": "CAROUSEL", "children": ",".join(children),
                                "caption": legenda, "access_token": tok})
