@@ -4,7 +4,7 @@ Motor do CARROSSEL do Missão 100% (Instagram). Lê o episódio do dia (calendar
 e gera, via Claude API, APENAS o carrossel de 10 slides + a legenda (a questão/comentário
 do WhatsApp são gerados pelo n8n, à parte). Salva em saida/dia-NNN/conteudo.json.
 """
-import os, sys, json, re, datetime, pathlib, urllib.request
+import os, sys, json, re, time, datetime, pathlib, urllib.request, urllib.error
 
 BASE = pathlib.Path(__file__).parent
 def load_config():
@@ -56,11 +56,32 @@ def gerar(ep, cfg):
         raise SystemExit("Falta CLAUDE_API_KEY (config.json).")
     body = {"model": cfg["CLAUDE_MODEL"], "max_tokens": 6000, "system": SYSTEM,
             "messages": [{"role": "user", "content": build_user(ep)}]}
-    req = urllib.request.Request("https://api.anthropic.com/v1/messages",
-        data=json.dumps(body).encode("utf-8"),
-        headers={"x-api-key": cfg["CLAUDE_API_KEY"], "anthropic-version": "2023-06-01", "content-type": "application/json"})
-    with urllib.request.urlopen(req, timeout=180) as r:
-        resp = json.load(r)
+    payload = json.dumps(body).encode("utf-8")
+    headers = {"x-api-key": cfg["CLAUDE_API_KEY"], "anthropic-version": "2023-06-01", "content-type": "application/json"}
+    # RETRY: a API do Claude pode devolver 429/5xx/529 (overloaded) de forma transitoria.
+    resp = None; last = None
+    for attempt in range(6):
+        try:
+            req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=payload, headers=headers)
+            with urllib.request.urlopen(req, timeout=180) as r:
+                resp = json.load(r)
+            break
+        except urllib.error.HTTPError as e:
+            last = e
+            if e.code in (408, 409, 429, 500, 502, 503, 504, 529) and attempt < 5:
+                print(f"  Claude {e.code}, tentando de novo em instantes (tentativa {attempt+1})")
+                time.sleep(min(20 * (attempt + 1), 90))
+            else:
+                raise
+        except urllib.error.URLError as e:
+            last = e
+            if attempt < 5:
+                print(f"  erro de rede na chamada ao Claude, retry (tentativa {attempt+1})")
+                time.sleep(min(20 * (attempt + 1), 90))
+            else:
+                raise
+    if resp is None:
+        raise last
     raw = resp["content"][0]["text"].strip()
     raw = re.sub(r"^```(?:json)?\s*", "", raw, flags=re.I)
     raw = re.sub(r"\s*```$", "", raw).strip()
